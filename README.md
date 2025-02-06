@@ -1,5 +1,5 @@
 # Word-Embedding-Visualization-using-Word2Vec
-SLP Assignment 1 - Word2Vec Model Training and Visualization
+Word2Vec Model Training and Visualization
 Overview
 This project focuses on training a Word2Vec model using the gensim library. It includes word embedding visualization using PCA and t-SNE and evaluates the model through word similarity and analogy tasks.
 
